@@ -1,0 +1,5 @@
+C:\Users\Arzyshka\Desktop\ТЕСТИРОВАНИЕ\лаб2программа\FibonacciApp\FibonacciApp\obj\Debug\net6.0\FibonacciApp.csproj.AssemblyReference.cache
+C:\Users\Arzyshka\Desktop\ТЕСТИРОВАНИЕ\лаб2программа\FibonacciApp\FibonacciApp\obj\Debug\net6.0\FibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arzyshka\Desktop\ТЕСТИРОВАНИЕ\лаб2программа\FibonacciApp\FibonacciApp\obj\Debug\net6.0\FibonacciApp.AssemblyInfoInputs.cache
+C:\Users\Arzyshka\Desktop\ТЕСТИРОВАНИЕ\лаб2программа\FibonacciApp\FibonacciApp\obj\Debug\net6.0\FibonacciApp.AssemblyInfo.cs
+C:\Users\Arzyshka\Desktop\ТЕСТИРОВАНИЕ\лаб2программа\FibonacciApp\FibonacciApp\obj\Debug\net6.0\FibonacciApp.csproj.CoreCompileInputs.cache
